@@ -31,7 +31,6 @@
 - ✅ Encryption system — Implements a simple exnryption system using XOR and a random key generation logic using the random library
 - ✅ Login System — brief description
 - ✅ Registration System — brief description
-- 🔧 Planned: something you intend to add
 
 ---
 
